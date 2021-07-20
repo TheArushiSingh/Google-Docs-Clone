@@ -18,8 +18,8 @@ You need to have installed:
 1. With the help of your terminal, go to `server` folder
 2. Type `npm i` to install all modules
 3. Then type `npm run dev`
-4. Open a new terminal tab, go to `client` folder
+4. Open a new terminal tab, go to `google-docs-clone` folder
 5. Type `npm i` to install all modules
 6. Then type `npm start`
-7. Visit `http://localhost:3000` to create your first document
-8. (optional) Repeat 4 and 6 as many times as you want, on same URL or not
+7. Visit `http://localhost:3000` to create your first document.
+
